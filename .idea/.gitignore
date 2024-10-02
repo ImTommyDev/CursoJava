@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Archivos de IntelliJ IDEA
+.idea/
+*.iml
+
+# Carpetas de compilación
+/out/
+build/
+bin/
+
+# Archivos de logs
+*.log
+
+# Archivos de sistema
+.DS_Store
