@@ -12,4 +12,5 @@ Este repositorio será actualizado regularmente. Está separado por bloques, y c
 ### 🧩 **Bloque 1 - Primeros pasos:**
   - 👋 **Hola Mundo**
   - 🛠️ **Manejo de variables básicas**
-  - 💬 **Trabajo con Strings**
+  - 🔤 **Trabajo con Strings**
+  - 🖥️ **Trabajo con Scanner**
