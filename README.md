@@ -14,3 +14,4 @@ Este repositorio será actualizado regularmente. Está separado por bloques, y c
   - 🛠️ **Manejo de variables básicas**
   - 🔤 **Trabajo con Strings**
   - 🖥️ **Trabajo con Scanner**
+  - 🎲 **Trabajo con la clase Random**
