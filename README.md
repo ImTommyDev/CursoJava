@@ -1,4 +1,4 @@
-# 🚀 **Curso de Java desde Cero** 🚀
+# 🚀 **Curso de ejercicios de Java desde Cero** 🚀
 
 ## 📚 **CursoJava** 
 
