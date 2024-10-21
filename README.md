@@ -7,7 +7,7 @@ Este repositorio contiene todo el material y los ejercicios para aprender Java d
 
 ## 📝 **Descripción** 
 
-Este repositorio será actualizado regularmente. Está separado por bloques, y cada bloque contiene un número de clases y sus respectivos ejercicios:
+Este repositorio será actualizado regularmente. Está separado por bloques, cada bloque contiene un número de clases y sus respectivos ejercicios:
 
 ### 🧩 **Bloque 1 - Primeros pasos:**
   - 👋 **Hola Mundo**
